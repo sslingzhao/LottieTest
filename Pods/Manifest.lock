@@ -1,0 +1,15 @@
+PODS:
+  - lottie-ios (1.5.1)
+  - MBProgressHUD (1.0.0)
+
+DEPENDENCIES:
+  - lottie-ios
+  - MBProgressHUD (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  lottie-ios: f680a7c4cb7a567ecf258fde0f967913aff111b8
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+
+PODFILE CHECKSUM: 3d7422184814c8dfb7266cc65297f563a7c5cef3
+
+COCOAPODS: 1.2.1
